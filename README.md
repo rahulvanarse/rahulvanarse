@@ -1,3 +1,4 @@
+![logo](https://github.com/rahulvanarse/rahulvanarse/blob/main/Picsart_23-05-10_06-05-45-595.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Vanarse</h1>
 <h3 align="center">🔭 Hi, my name is Rahul Vanarse and I'm a DevOps Engineer with 8 month of experience in designing and implementing DevOps processes and infrastructure. I have extensive experience with GitHub as a DevOps platform and have worked on numerous projects using GitHub to manage version control, automate CI/CD pipelines, and deploy infrastructure as code. My expertise in DevOps and GitHub has allowed me to successfully collaborate with development and operations teams, streamlining software development and delivery processes to improve time-to-market and software quality. I have a strong passion for automation and continuous improvement and am always looking for new ways to optimize DevOps processes and infrastructure.</h3>
 

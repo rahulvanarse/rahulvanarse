@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvanarse&" alt="rahulvanarse" /></p>
 
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/rahulvanarse/count.svg)

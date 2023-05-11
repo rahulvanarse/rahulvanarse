@@ -26,6 +26,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulvanarse&show_icons=true&locale=en" alt="rahulvanarse" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvanarse&" alt="rahulvanarse" /></p>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+   <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/rahulvanarse/count.svg)
